@@ -1,0 +1,30 @@
+body {
+  background-color: #f7f6e7;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-top-color: grey;
+  border-radius: 0;
+  width: 5%;
+}
+
+h1 {
+  font-style: normal;
+  font-family: system-ui;
+  color: #66BFBF;
+}
+
+h3 {
+  font-style: normal;
+  font-family: system-ui;
+  color: #66BFBF;
+}
+
+p {
+  font-style: normal;
+  font-family: system-ui;
+}
