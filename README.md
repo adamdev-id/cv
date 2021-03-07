@@ -1,2 +1,2 @@
 # Digital CV Hosted on Github.com
-https://adamdev-id.github.io/cv/
+demo: https://adamdev-id.github.io/cv/
